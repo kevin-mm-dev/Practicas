@@ -1,0 +1,10 @@
+C:\Users\nivec\source\repos\ChatBoxN\ChatBoxN\bin\Debug\ChatBoxN.exe.config
+C:\Users\nivec\source\repos\ChatBoxN\ChatBoxN\bin\Debug\ChatBoxN.exe
+C:\Users\nivec\source\repos\ChatBoxN\ChatBoxN\bin\Debug\ChatBoxN.pdb
+C:\Users\nivec\source\repos\ChatBoxN\ChatBoxN\obj\Debug\ChatBoxN.csprojAssemblyReference.cache
+C:\Users\nivec\source\repos\ChatBoxN\ChatBoxN\obj\Debug\ChatBoxN.Form1.resources
+C:\Users\nivec\source\repos\ChatBoxN\ChatBoxN\obj\Debug\ChatBoxN.Properties.Resources.resources
+C:\Users\nivec\source\repos\ChatBoxN\ChatBoxN\obj\Debug\ChatBoxN.csproj.GenerateResource.cache
+C:\Users\nivec\source\repos\ChatBoxN\ChatBoxN\obj\Debug\ChatBoxN.csproj.CoreCompileInputs.cache
+C:\Users\nivec\source\repos\ChatBoxN\ChatBoxN\obj\Debug\ChatBoxN.exe
+C:\Users\nivec\source\repos\ChatBoxN\ChatBoxN\obj\Debug\ChatBoxN.pdb
