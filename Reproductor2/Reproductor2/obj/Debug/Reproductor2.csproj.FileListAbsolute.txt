@@ -1,0 +1,16 @@
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\bin\Debug\Reproductor2.exe.config
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\bin\Debug\Reproductor2.exe
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\bin\Debug\Reproductor2.pdb
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\obj\Debug\Reproductor2.csprojAssemblyReference.cache
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\obj\Debug\Reproductor2.Form1.resources
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\obj\Debug\Reproductor2.Properties.Resources.resources
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\obj\Debug\Reproductor2.csproj.GenerateResource.cache
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\obj\Debug\Reproductor2.csproj.CoreCompileInputs.cache
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\obj\Debug\Reproductor2.exe
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\obj\Debug\Reproductor2.pdb
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\obj\Debug\Reproductor2.Form2.resources
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\bin\Debug\Interop.WMPLib.dll
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\obj\Debug\Interop.WMPLib.dll
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nivec\Documents\ESCUELA\Cuatri__#3\Hugo-Visual\Proyectos_Visual Basic\Reproductor2\Reproductor2\obj\Debug\Reproductor2.csproj.ResolveComReference.cache
